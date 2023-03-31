@@ -1,1 +1,0 @@
-# cookiecutter-my-data-science
